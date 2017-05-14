@@ -59,15 +59,16 @@ Sidebar
 .ad {
 	width: 200px;
 	height: 200px;
+	position: relative;
+	top: 138px;
 	background-color: white;
 	margin: 0 auto;
-	margin-top: 5px;
 }
 
 .sidebar-text {
-  padding-top: 139.5px;
+  position: relative;
+	top: 130px;
 	font-size: .75em;
-	margin: 0 auto;
 	text-align: center;
 }
 
