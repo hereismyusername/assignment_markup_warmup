@@ -60,7 +60,10 @@ Sidebar
 	width: 200px;
 	height: 200px;
 	position: relative;
-	top: 129px;
+	top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 	background-color: white;
 	margin: 0 auto;
 }
