@@ -60,14 +60,14 @@ Sidebar
 	width: 200px;
 	height: 200px;
 	position: relative;
-	top: 138px;
+	top: 129px;
 	background-color: white;
 	margin: 0 auto;
 }
 
 .sidebar-text {
   position: relative;
-	top: 130px;
+	top: 129px;
 	font-size: .75em;
 	text-align: center;
 }
