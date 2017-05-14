@@ -5,3 +5,5 @@ And 1 and 2!  And 1, and 2...!
 [An HTM5, CSS3 and SASS project from the Viking Code School](http://www.vikingcodeschool.com)
 
 hereismyusername
+
+new_branch replaces pre-flexbox version of ad positioning with alternatives: 1) absolute/relative; and 2) transform translate
